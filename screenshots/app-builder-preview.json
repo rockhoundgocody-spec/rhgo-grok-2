@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RockHound-GO",
+      "hasCanvas": true,
+      "bodyTextLen": 327,
+      "bodyTextHash": "d0f08a697aaf7aed52c57bedf5791fe1a2a55966dd5c9dbe6a9882fec0e50437",
+      "bodyTextPrefix": "RockHound-GO F WORLD WELL · 36 / 24H Daily challenge Pebble Scou",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RockHound-GO",
+      "hasCanvas": true,
+      "bodyTextLen": 286,
+      "bodyTextHash": "500cb26a8a2bf712e8f5cecd850d940e777c86734b9a56d42a4fd686694e71c7",
+      "bodyTextPrefix": "RockHound-GO F WORLD WELL Daily challenge Pebble Scout 1,500 XP ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

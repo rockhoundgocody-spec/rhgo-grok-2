@@ -1,0 +1,56 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RockHound-GO",
+      "hasCanvas": true,
+      "bodyTextLen": 296,
+      "bodyTextHash": "ec0f44199ef055a55ad07bcc4612bb54efbf49afa5bf84746e888428acf7e250",
+      "bodyTextPrefix": "RockHound-GO F WORLD WELL · 0 / 24H Daily challenge Pebble Scout",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RockHound-GO",
+      "hasCanvas": true,
+      "bodyTextLen": 326,
+      "bodyTextHash": "702fa6dae4b740d810921d7d09836194f95e9e75bd0db5c4759518b33ec240ed",
+      "bodyTextPrefix": "RockHound-GO F WORLD WELL · 0 / 24H Daily challenge Pebble Scout",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING",
+        "Failed to load resource: net::ERR_CONNECTION_RESET",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "Failed to load resource: net::ERR_CONNECTION_REFUSED"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: console/page errors appeared (14)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
